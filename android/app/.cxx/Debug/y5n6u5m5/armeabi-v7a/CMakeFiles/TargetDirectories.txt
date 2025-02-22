@@ -1,0 +1,2 @@
+C:/Users/edwin/Documents/actividades_DS2/guia3/android/app/.cxx/Debug/y5n6u5m5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/edwin/Documents/actividades_DS2/guia3/android/app/.cxx/Debug/y5n6u5m5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
